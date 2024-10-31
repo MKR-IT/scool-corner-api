@@ -1,9 +1,3 @@
-Dziękuję za zwrócenie uwagi! Oto poprawiony README z uwzględnieniem wszystkich ścieżek frontendu:
-
----
-
-# Scool Corner
-
 ## Wprowadzenie
 Scool Corner to aplikacja internetowa stworzona do zarządzania darowiznami i wypłatami oraz monitorowania ich w czasie rzeczywistym. Projekt łączy sponsorów i uczniów, umożliwiając sponsorowanie różnych produktów dla uczniów. Aplikacja składa się z backendu opartego na Node.js, Express oraz Sequelize (do zarządzania bazą danych) oraz frontendowej części React, która wykorzystuje Socket.IO do obsługi aktualizacji na żywo.
 
